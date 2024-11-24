@@ -1,3 +1,2 @@
 // show all docs
-use school
-show tables
+db.school.find()
